@@ -1,4 +1,4 @@
-// var expect = require('chai').expect;
+// var expect = require('expect');
 
 var validStrings, invalidStrings, // used for stringifyJSON and parseJSON specs
   weirdObjects; // used for stringifyJSON spec
